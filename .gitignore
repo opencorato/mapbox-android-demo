@@ -3,4 +3,5 @@
 .gradle
 gradle/
 local.properties
-
+mapbox-android-sdk/
+gradlew
