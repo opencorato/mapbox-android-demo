@@ -1,0 +1,6 @@
+   <com.mapbox.mapboxsdk.views.MapView xmlns:android="http://schemas.android.com/apk/res/android"
+           android:id="@+id/mapview"
+           android:layout_width="fill_parent"
+           android:layout_height="fill_parent"
+           mapboxID="examples.map-zgrqqx0w">
+   </com.mapbox.mapboxsdk.views.MapView>
